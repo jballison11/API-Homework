@@ -1,0 +1,9 @@
+API Homework
+
+Observations:
+
+1. Temperature rises as cities are located closer to the equator and hits its top temperatures around 20 degrees latitude.
+
+2. Most cities have low wind speeds no matter what the latitude.
+
+3. Most cities have higher humidity.
